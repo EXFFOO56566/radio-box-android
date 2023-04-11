@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e95055593a9b3ff07af59cf9747ec323/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4fbdeea22c3685d04a198c840a893f7d/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4fbdeea22c3685d04a198c840a893f7d/transformed/lifecycle-livedata-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4fbdeea22c3685d04a198c840a893f7d/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/3f60e4acfe6bcf028670cdd06366a62c/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/95a0e8e35b22b21bfdd1d5fe87680509/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/95a0e8e35b22b21bfdd1d5fe87680509/transformed/lifecycle-livedata-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/95a0e8e35b22b21bfdd1d5fe87680509/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/95a0e8e35b22b21bfdd1d5fe87680509/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0e0dff22c4019b43f541061efd4bc5f7/transformed/lifecycle-livedata-2.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0e0dff22c4019b43f541061efd4bc5f7/transformed/lifecycle-livedata-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0e0dff22c4019b43f541061efd4bc5f7/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.1.0/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.1.0/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

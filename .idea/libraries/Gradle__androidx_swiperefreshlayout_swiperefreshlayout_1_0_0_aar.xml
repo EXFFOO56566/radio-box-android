@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e05e1d7858af35c0157f63b5b6037148/swiperefreshlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4c6bc58cbb8d613b37673a92ac6fd871/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2cadb146cfb0d2e77387c0b16a092983/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8ad08dec33e7d753d7c1e11bf2ff5eb5/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e05e1d7858af35c0157f63b5b6037148/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e05e1d7858af35c0157f63b5b6037148/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e05e1d7858af35c0157f63b5b6037148/swiperefreshlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-2/files-2.1/e05e1d7858af35c0157f63b5b6037148/swiperefreshlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/0bb8ce2ed9e5e23130edb6021766cd44/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4c6bc58cbb8d613b37673a92ac6fd871/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4c6bc58cbb8d613b37673a92ac6fd871/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4c6bc58cbb8d613b37673a92ac6fd871/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/9d32c1050d3e3d2b2b92516eb955a779/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2cadb146cfb0d2e77387c0b16a092983/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2cadb146cfb0d2e77387c0b16a092983/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2cadb146cfb0d2e77387c0b16a092983/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2cadb146cfb0d2e77387c0b16a092983/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8ad08dec33e7d753d7c1e11bf2ff5eb5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8ad08dec33e7d753d7c1e11bf2ff5eb5/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8ad08dec33e7d753d7c1e11bf2ff5eb5/transformed/swiperefreshlayout-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.0.0/ab92d86c004eb1d48e45f311b02ca53d6c86b607/swiperefreshlayout-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.0.0/ab92d86c004eb1d48e45f311b02ca53d6c86b607/swiperefreshlayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

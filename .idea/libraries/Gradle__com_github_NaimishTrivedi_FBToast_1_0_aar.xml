@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.NaimishTrivedi:FBToast:1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b07bfb2ed9f860b98a9bf1eb2a35af8c/jetified-FBToast-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b07bfb2ed9f860b98a9bf1eb2a35af8c/jetified-FBToast-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b07bfb2ed9f860b98a9bf1eb2a35af8c/jetified-FBToast-1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/ef3d3b8cae57d0e0cc3a90c72af90136/transformed/jetified-FBToast-1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/ef3d3b8cae57d0e0cc3a90c72af90136/transformed/jetified-FBToast-1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/ef3d3b8cae57d0e0cc3a90c72af90136/transformed/jetified-FBToast-1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f9d77f93f5496e16170c720ca2816f77/transformed/jetified-FBToast-1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f9d77f93f5496e16170c720ca2816f77/transformed/jetified-FBToast-1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f9d77f93f5496e16170c720ca2816f77/transformed/jetified-FBToast-1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f0b43e41a664018e6a329fcbe25ea663/transformed/jetified-FBToast-1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f0b43e41a664018e6a329fcbe25ea663/transformed/jetified-FBToast-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f0b43e41a664018e6a329fcbe25ea663/transformed/jetified-FBToast-1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

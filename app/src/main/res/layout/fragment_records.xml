@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context=".fragments.RecordsFragment">
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+      <RelativeLayout
+          android:id="@+id/tbr"
+          android:layout_width="match_parent"
+          android:layout_height="60dp"
+          android:layout_marginTop="35dp">
+
+          <TextView
+              android:id="@+id/textView"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_centerVertical="true"
+              android:layout_marginLeft="16dp"
+              android:text="@string/radio_box"
+              android:textColor="@color/white"
+              android:textSize="30sp"
+              android:textStyle="bold"
+              android:typeface="serif" />
+
+          <Button
+              android:id="@+id/btn_insta"
+              android:layout_width="35dp"
+              android:layout_height="35dp"
+              android:layout_alignParentEnd="true"
+              android:layout_centerVertical="true"
+              android:layout_marginRight="16dp"
+              android:background="@drawable/instagram"
+              android:backgroundTint="@color/green"
+              android:visibility="gone" />
+      </RelativeLayout>
+
+      <androidx.recyclerview.widget.RecyclerView
+          android:id="@+id/recyclerView"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:layout_above="@+id/jcplayer"
+          android:layout_below="@id/tbr"
+          android:layout_gravity="center"
+          android:layout_marginLeft="16dp"
+          android:layout_marginRight="16dp"
+          tools:layout_editor_absoluteX="0dp"
+          tools:layout_editor_absoluteY="0dp">
+
+
+      </androidx.recyclerview.widget.RecyclerView>
+
+
+      <com.example.jean.jcplayer.view.JcPlayerView
+          android:id="@+id/jcplayer"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignParentBottom="true"
+          android:background="@color/ax_main"
+          android:gravity="bottom"
+          app:next_icon_color="@color/colorAccent"
+          app:pause_icon_color="@color/colorAccent"
+          app:play_icon_color="@color/colorAccent"
+          app:previous_icon_color="@color/colorAccent"
+          app:progress_color="@color/colorAccent"
+          app:random_icon_color="@android:color/white"
+          app:repeat_icon_color="@android:color/white"
+          app:seek_bar_color="@android:color/white"
+          app:text_audio_current_duration_color="@color/colorAccent"
+          app:text_audio_duration_color="@color/colorAccent"
+          app:text_audio_title_color="@android:color/white" />
+
+  </RelativeLayout>
+
+</FrameLayout>

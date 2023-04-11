@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yashovardhan99:TimeIt:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b846afdaf00b5d97424ba0e9b91716bc/jetified-TimeIt-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b846afdaf00b5d97424ba0e9b91716bc/jetified-TimeIt-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b846afdaf00b5d97424ba0e9b91716bc/jetified-TimeIt-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1ba78eed58e753c813ab90cdb21f7913/transformed/jetified-TimeIt-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1ba78eed58e753c813ab90cdb21f7913/transformed/jetified-TimeIt-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1ba78eed58e753c813ab90cdb21f7913/transformed/jetified-TimeIt-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/92953bcbad008b8f8c6a862aa40b0a97/transformed/jetified-TimeIt-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/92953bcbad008b8f8c6a862aa40b0a97/transformed/jetified-TimeIt-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/92953bcbad008b8f8c6a862aa40b0a97/transformed/jetified-TimeIt-1.2.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d682122cda1b4b1bc11edfdba987c798/transformed/jetified-TimeIt-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d682122cda1b4b1bc11edfdba987c798/transformed/jetified-TimeIt-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d682122cda1b4b1bc11edfdba987c798/transformed/jetified-TimeIt-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yashovardhan99/TimeIt/1.2.0/29c197512a54ce560aa7e88af955a0349ab0eb75/TimeIt-1.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.yashovardhan99/TimeIt/1.2.0/29c197512a54ce560aa7e88af955a0349ab0eb75/TimeIt-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yashovardhan99/TimeIt/1.2.0/39c7e2db833f2945cd4c08ba592689367dc5735f/TimeIt-1.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.yashovardhan99/TimeIt/1.2.0/39c7e2db833f2945cd4c08ba592689367dc5735f/TimeIt-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

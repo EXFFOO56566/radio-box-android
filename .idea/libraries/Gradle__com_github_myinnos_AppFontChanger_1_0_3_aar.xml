@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.myinnos:AppFontChanger:1.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/782bfdea459f2a93d2b05f04eb7d35e6/jetified-AppFontChanger-1.0.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/782bfdea459f2a93d2b05f04eb7d35e6/jetified-AppFontChanger-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/782bfdea459f2a93d2b05f04eb7d35e6/jetified-AppFontChanger-1.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e2a874829d9c8f4b20141134cd61d8fc/transformed/jetified-AppFontChanger-1.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e2a874829d9c8f4b20141134cd61d8fc/transformed/jetified-AppFontChanger-1.0.3/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e2a874829d9c8f4b20141134cd61d8fc/transformed/jetified-AppFontChanger-1.0.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4ff6368828fda6f17ae057b88389ef3b/transformed/jetified-AppFontChanger-1.0.3/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4ff6368828fda6f17ae057b88389ef3b/transformed/jetified-AppFontChanger-1.0.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4ff6368828fda6f17ae057b88389ef3b/transformed/jetified-AppFontChanger-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3f5aef8ed3a17955bd3a4c223c71fd3/transformed/jetified-AppFontChanger-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3f5aef8ed3a17955bd3a4c223c71fd3/transformed/jetified-AppFontChanger-1.0.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d3f5aef8ed3a17955bd3a4c223c71fd3/transformed/jetified-AppFontChanger-1.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.myinnos/AppFontChanger/1.0.3/4773a681992d30eeaab15b0f43c5cae69c4e88e/AppFontChanger-1.0.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.myinnos/AppFontChanger/1.0.3/4773a681992d30eeaab15b0f43c5cae69c4e88e/AppFontChanger-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.myinnos/AppFontChanger/1.0.3/bbaa09e1880a282ed5c14ed44590e66d9b7d7efd/AppFontChanger-1.0.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.myinnos/AppFontChanger/1.0.3/bbaa09e1880a282ed5c14ed44590e66d9b7d7efd/AppFontChanger-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

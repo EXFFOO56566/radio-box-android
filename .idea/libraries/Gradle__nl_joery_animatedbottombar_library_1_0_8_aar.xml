@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: nl.joery.animatedbottombar:library:1.0.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91a603eb189e7cbaafeac1c3cda1ea6f/jetified-library-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91a603eb189e7cbaafeac1c3cda1ea6f/jetified-library-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91a603eb189e7cbaafeac1c3cda1ea6f/jetified-library-1.0.8/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/eec8d356851add598c8bc7752f8d3f8a/transformed/jetified-library-1.0.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/eec8d356851add598c8bc7752f8d3f8a/transformed/jetified-library-1.0.8/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/eec8d356851add598c8bc7752f8d3f8a/transformed/jetified-library-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/d4c02c5243a0ebc4e29d3fc7748f0941/transformed/jetified-library-1.0.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/d4c02c5243a0ebc4e29d3fc7748f0941/transformed/jetified-library-1.0.8/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/d4c02c5243a0ebc4e29d3fc7748f0941/transformed/jetified-library-1.0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0d1d8b1cd6397ab5730b21e370c8f64/transformed/jetified-library-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c0d1d8b1cd6397ab5730b21e370c8f64/transformed/jetified-library-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0d1d8b1cd6397ab5730b21e370c8f64/transformed/jetified-library-1.0.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/nl.joery.animatedbottombar/library/1.0.8/1ac1914cdcd8d903490905b598e1102a28ee64c8/library-1.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/nl.joery.animatedbottombar/library/1.0.8/1ac1914cdcd8d903490905b598e1102a28ee64c8/library-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/nl.joery.animatedbottombar/library/1.0.8/50a502a695dfeabf0723f1862a66ca5e3173f754/library-1.0.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/nl.joery.animatedbottombar/library/1.0.8/50a502a695dfeabf0723f1862a66ca5e3173f754/library-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

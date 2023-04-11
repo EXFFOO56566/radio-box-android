@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">RADIO BOX</string>
+
+    <!-- PARSE SETTINGS -->
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">APP+ID</string>
+    <string name="back4app_client_key">CLIENT_KEY</string>
+
+    <!-- ADS -->
+    <string name="ads_ids" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <!-- ADS END -->
+
+    <!-- Different styles for input box. -->
+    <string name="style_square">square_box</string>
+    <string name="style_rounded">rounded_box</string>
+    <string name="style_underline">underline</string>
+    <string name="style_rounded_underline">rounded_underline</string>
+    <string name="mask_character">\u2022</string>
+    <string name="live_broadcast">On Air</string>
+    <string name="love">Made with <font color='#B42510'>\u2665</font> by SIMPLEAPP</string>
+    <string name="start_text">RADIO<font color='#ffffff'>BOX</font></string>
+    <string name="phone_number_require">Phone Number is Require</string>
+    <string name="phone_verification">Phone Verification</string>
+    <string name="please_wait_while_sending_verification">Please Wait, While we are sending verification code</string>
+    <string name="please_write_verification_code">Please write your verification code</string>
+    <string name="please_wait_while_we_are_verify_code">Please Wait, while we are verifying your code</string>
+    <string name="invalid_phone_number">Invalid Phone Number, Please write your correct phone number with country code</string>
+    <string name="code_has_been_sent">Code has Been Send, Please check your message</string>
+    <string name="congrat_phone_login">Congratulation, you\'re logged in successfully</string>
+    <string name="send_request">Send Request</string>
+    <string name="unfriend">Unfriend</string>
+    <string name="cancel">Cancel</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="sent_verification">Sent Verification Code</string>
+    <string name="error">Error</string>
+    <string name="_555_55_55">555-55-55</string>
+    <string name="send_codes">Send code</string>
+    <string name="enter_the_code_from_sms">Enter the code from SMS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="choose_rating">Please choose rating</string>
+    <string name="based">based on </string>
+    <string name="votes"> votes</string>
+    <string name="already_voited">You have already voted for this station</string>
+    <string name="rated_saved">Rating saved</string>
+    <string name="only">Only registered users can use this feature.</string>
+    <string name="register">Login or register</string>
+    <string name="loading">loading...</string>
+    <string name="rate_it">Rate it!</string>
+    <string name="favorite">Favorite</string>
+    <string name="not_app">Your smartphone does not have this application</string>
+    <string name="please_install">\"Please first install \"</string>
+    <string name="i_listen">Im listen : </string>
+    <string name="in">" in application: "</string>
+    <string name="application_download">" Download app: "</string>
+    <string name="start_timer">Set timer</string>
+    <string name="stop_timer">Stop timer</string>
+    <string name="timer">00:00:00</string>
+    <string name="you_name">Your name : </string>
+    <string name="about_us">About us</string>
+    <string name="about_txt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="version_1_2_3">Version 1.2.5</string>
+    <string name="timer_head">Timer</string>
+    <string name="_00_00_00_t">00:00:00</string>
+    <string name="set_timer_a">Set timer</string>
+    <string name="mail_to_developer">Mail to developer</string>
+    <string name="from_admin">You have a message in the app from Admin : </string>
+    <string name="approved">Your radio approved and publish</string>
+    <string name="not_approved">Your radio not approved and publish</string>
+    <string name="you_new_nickname">You new nickname</string>
+    <string name="you_new_name">you new name</string>
+    <string name="save">Save</string>
+    <string name="radio_box">RADIO BOX</string>
+    <string name="add_radio_cover">Add radio cover</string>
+    <string name="sent">Sent from app RADIO BOX</string>
+    <string name="write">Write something</string>
+    <string name="you_can_listen_to_the_recordings_made_earlier">You can listen to the recordings made earlier.</string>
+    <string name="apptove_txt">For approve radio please tap Approve button</string>
+    <string name="your_names">Your name</string>
+    <string name="nextz">Next</string>
+    <string name="do_you_really_want_to_delete_this_station">Do you really want to delete this station?</string>
+    <string name="oks">OK</string>
+    <string name="deezer">Deezer</string>
+    <string name="apple_music">Apple music</string>
+    <string name="spotify">Spotify</string>
+    <string name="lirycs">Lirycs</string>
+    <string name="vk">Vk</string>
+    <string name="google_music">Google music</string>
+    <string name="yandex_music">Yandex Music</string>
+    <string name="youtube">YouTube</string>
+    <string name="install_app">Install app</string>
+    <string name="complain_to_the_radio_station">Complain to the radio station</string>
+    <string name="this_stream_does_not_work">This stream does not work</string>
+    <string name="my_station">My station</string>
+    <string name="are_you_sure_you_want_to_delete_this_track">Are you sure you want to delete this track?</string>
+    <string name="delete_track">Delete track</string>
+    <string name="share_track">Share track</string>
+    <string name="your_music_recordings">Your music recordings</string>
+    <string name="name_stations">Name station</string>
+    <string name="url_stream">Url stream</string>
+    <string name="category">Category</string>
+    <string name="publish">Publish</string>
+    <string name="my_radio">My radio</string>
+    <string name="user_radio">User radio</string>
+    <string name="complaints">Complaints</string>
+    <string name="logout">Logout</string>
+    <string name="all_user_radio">all user radio</string>
+    <string name="set_category_radio">Set category radio</string>
+    <string name="radioz">Radio</string>
+    <string name="approvez">Approve</string>
+    <string name="approves">approve</string>
+    <string name="remove">remove</string>
+    <string name="set_timer">Set timer</string>
+    <string name="ok">OK</string>
+
+</resources>

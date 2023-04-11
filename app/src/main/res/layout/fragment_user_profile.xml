@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.UserProfileFragment">
+
+  <androidx.constraintlayout.widget.ConstraintLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+      <RelativeLayout
+          android:id="@+id/bb"
+
+          android:layout_width="match_parent"
+          android:layout_height="240dp"
+          android:layout_marginStart="16dp"
+          android:layout_marginTop="60dp"
+          android:layout_marginEnd="16dp"
+          android:background="@drawable/back_main_cell"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toTopOf="parent">
+
+          <com.rishabhharit.roundedimageview.RoundedImageView
+              android:id="@+id/user_ava"
+              android:layout_width="150dp"
+              android:layout_height="150dp"
+              android:layout_alignParentBottom="false"
+              android:layout_centerVertical="true"
+              android:layout_marginLeft="16dp"
+              android:elevation="3dp"
+              app:cornerRadius="20dp"
+              app:roundedCorners="topRight|bottomLeft|topLeft|bottomRight"
+              app:srcCompat="@drawable/back_led" />
+
+          <RelativeLayout
+              android:layout_width="match_parent"
+              android:layout_height="50dp"
+              android:layout_centerVertical="true"
+              android:layout_marginLeft="150dp"
+              android:layout_marginRight="16dp"
+              android:background="@drawable/user_plash">
+
+              <TextView
+                  android:id="@+id/user_name"
+                  android:layout_width="200dp"
+                  android:layout_height="50dp"
+                  android:layout_alignParentEnd="true"
+                  android:gravity="right|center_vertical"
+                  android:text="Romanxo"
+                  android:textAlignment="center"
+                  android:textAllCaps="true"
+                  android:textColor="@color/white"
+                  android:textSize="16dp"
+                  android:typeface="serif" />
+          </RelativeLayout>
+
+          <TextView
+              android:id="@+id/textView8"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentRight="true"
+              android:layout_alignParentBottom="true"
+              android:layout_marginRight="20dp"
+              android:layout_marginBottom="75dp"
+              android:text="@string/all_user_radio"
+              android:textColor="@color/white" />
+
+      </RelativeLayout>
+
+      <androidx.recyclerview.widget.RecyclerView
+          android:id="@+id/show_user_radio"
+          android:layout_width="0dp"
+          android:layout_height="500dp"
+          android:layout_marginLeft="16dp"
+          android:layout_marginTop="30dp"
+          android:layout_marginRight="16dp"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toBottomOf="@id/bb" />
+
+  </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+</FrameLayout>

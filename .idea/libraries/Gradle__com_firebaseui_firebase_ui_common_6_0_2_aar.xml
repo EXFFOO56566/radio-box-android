@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebaseui:firebase-ui-common:6.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f497ccf617665460a89da1714187eeab/jetified-firebase-ui-common-6.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f497ccf617665460a89da1714187eeab/jetified-firebase-ui-common-6.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f497ccf617665460a89da1714187eeab/jetified-firebase-ui-common-6.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-2/files-2.1/f497ccf617665460a89da1714187eeab/jetified-firebase-ui-common-6.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/c89d8f9ccca0cfe08651129d89f5d676/transformed/jetified-firebase-ui-common-6.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1441d44c8a64962050a3d1f9c3f7cf3a/transformed/jetified-firebase-ui-common-6.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1441d44c8a64962050a3d1f9c3f7cf3a/transformed/jetified-firebase-ui-common-6.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1441d44c8a64962050a3d1f9c3f7cf3a/transformed/jetified-firebase-ui-common-6.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/b255780961742a03422545854a754430/transformed/jetified-firebase-ui-common-6.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/72b9a4b2a80dae0fd9ade7f7a8ffddcf/transformed/jetified-firebase-ui-common-6.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/72b9a4b2a80dae0fd9ade7f7a8ffddcf/transformed/jetified-firebase-ui-common-6.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/72b9a4b2a80dae0fd9ade7f7a8ffddcf/transformed/jetified-firebase-ui-common-6.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72b9a4b2a80dae0fd9ade7f7a8ffddcf/transformed/jetified-firebase-ui-common-6.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b269342915913661125b272f7ef1e4bd/transformed/jetified-firebase-ui-common-6.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b269342915913661125b272f7ef1e4bd/transformed/jetified-firebase-ui-common-6.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b269342915913661125b272f7ef1e4bd/transformed/jetified-firebase-ui-common-6.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/6.0.2/abd9b7474348627ba903ad8d249a18b487665c82/firebase-ui-common-6.0.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/6.0.2/abd9b7474348627ba903ad8d249a18b487665c82/firebase-ui-common-6.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/6.0.2/af997e723180eca5abcb77e17d3aca9597409bba/firebase-ui-common-6.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/6.0.2/af997e723180eca5abcb77e17d3aca9597409bba/firebase-ui-common-6.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

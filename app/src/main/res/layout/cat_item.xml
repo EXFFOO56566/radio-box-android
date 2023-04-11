@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="40dp"
+    android:layout_marginTop="1dp"
+    android:layout_marginRight="6dp"
+    android:layout_marginBottom="1dp"
+    android:background="@drawable/slide_cat"
+    android:orientation="vertical"
+    card_view:cardBackgroundColor="@color/transparent"
+    card_view:cardCornerRadius="5dp"
+    card_view:cardElevation="3dp">
+
+    <TextView
+        android:id="@+id/txt_vv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="TextView"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:typeface="sans" />
+</RelativeLayout>

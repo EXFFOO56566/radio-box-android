@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/au_back_all"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/view_need_offset"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@android:color/transparent"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/toolbar">
+
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+               >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="400dp">
+
+
+                        <com.rishabhharit.roundedimageview.RoundedImageView
+                            android:id="@+id/img_add"
+                            android:layout_width="match_parent"
+                            android:layout_height="400dp"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginRight="16dp"
+                            android:scaleType="centerCrop"
+                            android:translationZ="0dp"
+                            app:cornerRadius="8dp"
+                            app:roundedCorners="topRight|topLeft|bottomRight|bottomLeft"
+                            tools:src="@tools:sample/avatars" />
+
+                        <ImageButton
+                            android:id="@+id/image_add_btn"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:layout_centerInParent="true"
+                            android:background="@drawable/plus"
+                            android:backgroundTint="@color/au_gray" />
+
+                    </RelativeLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:id="@+id/name_text_input"
+
+                        style="@style/Widget.TextInputLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="16dp"
+                        android:hint="@string/your_names"
+                        android:textColorHint="@color/blue"
+                        app:boxCornerRadiusBottomEnd="8dp"
+                        app:boxCornerRadiusBottomStart="8dp"
+                        app:boxCornerRadiusTopEnd="8dp"
+                        app:boxCornerRadiusTopStart="8dp"
+                        app:boxStrokeColor="@color/blue"
+                        app:counterTextColor="@color/blue"
+                        app:helperTextTextColor="@color/blue"
+                        app:hintTextColor="@color/blue"
+                        app:passwordToggleTint="@color/blue">
+
+                        <EditText
+                            android:id="@+id/text_user"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="@color/blue"
+                            android:inputType="textMultiLine"
+                            android:textColor="@color/cell_color" />
+
+                        <!-- <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/name_edit_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:inputType="text" /> -->
+                    </com.google.android.material.textfield.TextInputLayout>
+
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/publish"
+                        android:layout_width="160dp"
+                        android:layout_height="45dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="20dp"
+                        android:text="@string/nextz"
+                        android:textColor="@color/white"
+                        android:textSize="17sp"
+                        android:typeface="serif"
+                        app:backgroundTint="@color/blue"
+                        app:tint="@null" />
+
+                </LinearLayout>
+            </ScrollView>
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

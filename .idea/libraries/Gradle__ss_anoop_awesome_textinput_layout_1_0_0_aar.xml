@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: ss.anoop:awesome-textinput-layout:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af6013ce75b8164898eb40785c29877c/jetified-awesome-textinput-layout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af6013ce75b8164898eb40785c29877c/jetified-awesome-textinput-layout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af6013ce75b8164898eb40785c29877c/jetified-awesome-textinput-layout-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/925f5b99cd288b26d34865e9c62747d1/transformed/jetified-awesome-textinput-layout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/925f5b99cd288b26d34865e9c62747d1/transformed/jetified-awesome-textinput-layout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/925f5b99cd288b26d34865e9c62747d1/transformed/jetified-awesome-textinput-layout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/68ff8b7d26a4fd444609c5b823f46a50/transformed/jetified-awesome-textinput-layout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/68ff8b7d26a4fd444609c5b823f46a50/transformed/jetified-awesome-textinput-layout-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/68ff8b7d26a4fd444609c5b823f46a50/transformed/jetified-awesome-textinput-layout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fbfc850f0c370c622b1a5fc9a9586ec5/transformed/jetified-awesome-textinput-layout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fbfc850f0c370c622b1a5fc9a9586ec5/transformed/jetified-awesome-textinput-layout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fbfc850f0c370c622b1a5fc9a9586ec5/transformed/jetified-awesome-textinput-layout-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ss.anoop/awesome-textinput-layout/1.0.0/78f4ca8281bc68d2decdc50c003cb18c29d19472/awesome-textinput-layout-1.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/ss.anoop/awesome-textinput-layout/1.0.0/78f4ca8281bc68d2decdc50c003cb18c29d19472/awesome-textinput-layout-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ss.anoop/awesome-textinput-layout/1.0.0/7868000d02f049fe143401bd35210514008ae3f5/awesome-textinput-layout-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/ss.anoop/awesome-textinput-layout/1.0.0/7868000d02f049fe143401bd35210514008ae3f5/awesome-textinput-layout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

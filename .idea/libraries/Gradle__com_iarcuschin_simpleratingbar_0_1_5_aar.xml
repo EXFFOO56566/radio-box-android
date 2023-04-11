@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.iarcuschin:simpleratingbar:0.1.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55a581643bbc264302d6ee2163ad148e/jetified-simpleratingbar-0.1.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55a581643bbc264302d6ee2163ad148e/jetified-simpleratingbar-0.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55a581643bbc264302d6ee2163ad148e/jetified-simpleratingbar-0.1.5/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/6247adb92f34f749b0d512d7f216567c/transformed/jetified-simpleratingbar-0.1.5/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/6247adb92f34f749b0d512d7f216567c/transformed/jetified-simpleratingbar-0.1.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/6247adb92f34f749b0d512d7f216567c/transformed/jetified-simpleratingbar-0.1.5/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1132e0e29ff7ee7964a6edf58fb0b8fa/transformed/jetified-simpleratingbar-0.1.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1132e0e29ff7ee7964a6edf58fb0b8fa/transformed/jetified-simpleratingbar-0.1.5/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/1132e0e29ff7ee7964a6edf58fb0b8fa/transformed/jetified-simpleratingbar-0.1.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6d5377d8257e3331c041ea6e5e89ae69/transformed/jetified-simpleratingbar-0.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d5377d8257e3331c041ea6e5e89ae69/transformed/jetified-simpleratingbar-0.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d5377d8257e3331c041ea6e5e89ae69/transformed/jetified-simpleratingbar-0.1.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.iarcuschin/simpleratingbar/0.1.5/b2876a7bbd89a740644b6b9d967b69da94c26052/simpleratingbar-0.1.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.iarcuschin/simpleratingbar/0.1.5/b2876a7bbd89a740644b6b9d967b69da94c26052/simpleratingbar-0.1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.iarcuschin/simpleratingbar/0.1.5/b0a6ea5ed50012f3131d402bcd4dc41e4bab8b0d/simpleratingbar-0.1.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.iarcuschin/simpleratingbar/0.1.5/b0a6ea5ed50012f3131d402bcd4dc41e4bab8b0d/simpleratingbar-0.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

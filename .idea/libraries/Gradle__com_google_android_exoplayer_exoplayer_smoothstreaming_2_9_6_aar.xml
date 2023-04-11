@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/268446146512dc4a4269932e304b57f1/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/268446146512dc4a4269932e304b57f1/jetified-exoplayer-smoothstreaming-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/268446146512dc4a4269932e304b57f1/jetified-exoplayer-smoothstreaming-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-2/files-2.1/71d02a93cc10774dfb522af4ecfd9a23/jetified-exoplayer-smoothstreaming-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/84030e27586f3da8f1e0d4069bcf94b9/transformed/jetified-exoplayer-smoothstreaming-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/40e71a04efeafb651ded85c1bdfbeba0/transformed/jetified-exoplayer-smoothstreaming-2.9.6/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/40e71a04efeafb651ded85c1bdfbeba0/transformed/jetified-exoplayer-smoothstreaming-2.9.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/40e71a04efeafb651ded85c1bdfbeba0/transformed/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/18d66cba4391a0b9a18d2bb53cd6ed69/transformed/jetified-exoplayer-smoothstreaming-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/5c0ce7a66d8fcfd2485eb8f2db04741b/transformed/jetified-exoplayer-smoothstreaming-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/5c0ce7a66d8fcfd2485eb8f2db04741b/transformed/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/5c0ce7a66d8fcfd2485eb8f2db04741b/transformed/jetified-exoplayer-smoothstreaming-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aafc0edc7c34800e11def91e99839674/transformed/jetified-exoplayer-smoothstreaming-2.9.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/399999758be3cd4253699e60bff4b1c5/transformed/jetified-exoplayer-smoothstreaming-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/399999758be3cd4253699e60bff4b1c5/transformed/jetified-exoplayer-smoothstreaming-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/399999758be3cd4253699e60bff4b1c5/transformed/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-smoothstreaming/2.9.6/8002eb496d5ab35320b8b9af2d3ffee6bad2742/exoplayer-smoothstreaming-2.9.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-smoothstreaming/2.9.6/8002eb496d5ab35320b8b9af2d3ffee6bad2742/exoplayer-smoothstreaming-2.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-smoothstreaming/2.9.6/2b45c6ff523119f3d8d9f949aa918b3fdd25ced6/exoplayer-smoothstreaming-2.9.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-smoothstreaming/2.9.6/2b45c6ff523119f3d8d9f949aa918b3fdd25ced6/exoplayer-smoothstreaming-2.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918197738588",
+    "firebase_url": "https://radiobox-4e81a.firebaseio.com",
+    "project_id": "radiobox-4e81a",
+    "storage_bucket": "radiobox-4e81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918197738588:android:be04fb0150a2303726da99",
+        "android_client_info": {
+          "package_name": "pro.simpleapp.radiobox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918197738588-qejutf7sl9q5cbduda0bebfpt3t0b03t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.simpleapp.radiobox",
+            "certificate_hash": "3c3f0a0b5b5280a15aa6866a4b5858159d42a53b"
+          }
+        },
+        {
+          "client_id": "918197738588-da6flnhueblldlrprt0tsbn83e6dr2lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHIZA85QbgC4yXDDr8nWc0sFcqb1o9rVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918197738588-da6flnhueblldlrprt0tsbn83e6dr2lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

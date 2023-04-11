@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-core:2.9.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5b019f236a7177591c805c89906f9a6/jetified-exoplayer-core-2.9.6/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/25480659c2f1dd6fbee2f8d5e32b7ec3/transformed/jetified-exoplayer-core-2.9.6/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/073bfd2e5d8e7cae3f941ea5f6263ce2/transformed/jetified-exoplayer-core-2.9.6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d434bef42705a00b82a743935253fe71/transformed/jetified-exoplayer-core-2.9.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5b019f236a7177591c805c89906f9a6/jetified-exoplayer-core-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5b019f236a7177591c805c89906f9a6/jetified-exoplayer-core-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5b019f236a7177591c805c89906f9a6/jetified-exoplayer-core-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-2/files-2.1/a45a0bab0dac144876e83ee951bb9749/jetified-exoplayer-core-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e50af7db84e0e1c388e6232b655ade73/transformed/jetified-exoplayer-core-2.9.6/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/25480659c2f1dd6fbee2f8d5e32b7ec3/transformed/jetified-exoplayer-core-2.9.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/25480659c2f1dd6fbee2f8d5e32b7ec3/transformed/jetified-exoplayer-core-2.9.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/25480659c2f1dd6fbee2f8d5e32b7ec3/transformed/jetified-exoplayer-core-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2e6e64463b60c829a959ca0727922d6b/transformed/jetified-exoplayer-core-2.9.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/073bfd2e5d8e7cae3f941ea5f6263ce2/transformed/jetified-exoplayer-core-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/073bfd2e5d8e7cae3f941ea5f6263ce2/transformed/jetified-exoplayer-core-2.9.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/073bfd2e5d8e7cae3f941ea5f6263ce2/transformed/jetified-exoplayer-core-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a0539fcc626c5906a8c999a903feee5/transformed/jetified-exoplayer-core-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d434bef42705a00b82a743935253fe71/transformed/jetified-exoplayer-core-2.9.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d434bef42705a00b82a743935253fe71/transformed/jetified-exoplayer-core-2.9.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d434bef42705a00b82a743935253fe71/transformed/jetified-exoplayer-core-2.9.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.9.6/eefed6b5cb5a9fe39659956405bd3b37686baa3e/exoplayer-core-2.9.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.9.6/eefed6b5cb5a9fe39659956405bd3b37686baa3e/exoplayer-core-2.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.9.6/36f02ae560a34b567e06b9308828280b3a63947f/exoplayer-core-2.9.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.9.6/36f02ae560a34b567e06b9308828280b3a63947f/exoplayer-core-2.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

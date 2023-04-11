@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.IamIsPra:Sheriff:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2079297a411bf5d1763424e261a7afb/jetified-Sheriff-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2079297a411bf5d1763424e261a7afb/jetified-Sheriff-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2079297a411bf5d1763424e261a7afb/jetified-Sheriff-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4de24fa1ceb9ae248d78f15e24d4135b/transformed/jetified-Sheriff-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4de24fa1ceb9ae248d78f15e24d4135b/transformed/jetified-Sheriff-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/4de24fa1ceb9ae248d78f15e24d4135b/transformed/jetified-Sheriff-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/59942863e28d2308e58e70692bdb2c31/transformed/jetified-Sheriff-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/59942863e28d2308e58e70692bdb2c31/transformed/jetified-Sheriff-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/59942863e28d2308e58e70692bdb2c31/transformed/jetified-Sheriff-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0a245df0978cf2c9120e2b59ecee7745/transformed/jetified-Sheriff-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0a245df0978cf2c9120e2b59ecee7745/transformed/jetified-Sheriff-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0a245df0978cf2c9120e2b59ecee7745/transformed/jetified-Sheriff-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.IamIsPra/Sheriff/1.0.0/10816e2d104d9cfc1d879188c9df5570e3862975/Sheriff-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.IamIsPra/Sheriff/1.0.0/10816e2d104d9cfc1d879188c9df5570e3862975/Sheriff-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

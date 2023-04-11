@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android:flexbox:2.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/444789d015f2a5ed16561abec5ccb296/jetified-flexbox-2.0.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/b5a32f58f10211ba69f52b4939770738/transformed/jetified-flexbox-2.0.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f745d2f92c40b30580ad5d22bba405dd/transformed/jetified-flexbox-2.0.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8349722058aa21c93fbb1bb00beb4b1c/transformed/jetified-flexbox-2.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/444789d015f2a5ed16561abec5ccb296/jetified-flexbox-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/444789d015f2a5ed16561abec5ccb296/jetified-flexbox-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/444789d015f2a5ed16561abec5ccb296/jetified-flexbox-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/b5a32f58f10211ba69f52b4939770738/transformed/jetified-flexbox-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/b5a32f58f10211ba69f52b4939770738/transformed/jetified-flexbox-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/b5a32f58f10211ba69f52b4939770738/transformed/jetified-flexbox-2.0.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f745d2f92c40b30580ad5d22bba405dd/transformed/jetified-flexbox-2.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f745d2f92c40b30580ad5d22bba405dd/transformed/jetified-flexbox-2.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f745d2f92c40b30580ad5d22bba405dd/transformed/jetified-flexbox-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8349722058aa21c93fbb1bb00beb4b1c/transformed/jetified-flexbox-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8349722058aa21c93fbb1bb00beb4b1c/transformed/jetified-flexbox-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8349722058aa21c93fbb1bb00beb4b1c/transformed/jetified-flexbox-2.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android/flexbox/2.0.1/617671f33b801c5ebbfa15337097cafe278647f2/flexbox-2.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.google.android/flexbox/2.0.1/617671f33b801c5ebbfa15337097cafe278647f2/flexbox-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

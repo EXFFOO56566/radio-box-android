@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/button_blue"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="12dp"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="100dp"
+    app:layout_behavior="android.support.design.widget.BottomSheetBehavior">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp">
+
+        <ImageButton
+            android:id="@+id/button_close"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="16dp"
+            android:background="@android:drawable/ic_delete"
+            android:backgroundTint="@color/ax_main" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/top_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="110dp"
+            android:text="sss"
+            android:textAllCaps="true"
+            android:textColor="@color/back_app_main_color"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <com.rishabhharit.roundedimageview.RoundedImageView
+            android:id="@+id/img_album"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="25dp"
+            android:scaleType="centerCrop"
+            app:cornerRadius="8dp" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="15dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="8dp"
+            android:orientation="vertical">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_deezer"
+                android:layout_width="160dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/black_f"
+                android:drawablePadding="6dp"
+                android:drawableTint="@color/blue"
+                android:padding="6dp"
+                android:scaleType="fitXY"
+                android:text="@string/deezer"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:typeface="sans"
+                app:backgroundTint="@color/ax_three" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_apple"
+                android:layout_width="160dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/black_f"
+                android:drawablePadding="6dp"
+                android:drawableTint="@color/blue"
+                android:padding="6dp"
+                android:text="@string/apple_music"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:typeface="sans"
+                app:backgroundTint="@color/ax_three" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_spotify"
+                android:layout_width="160dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/black_f"
+                android:drawablePadding="6dp"
+                android:drawableTint="@color/blue"
+                android:padding="6dp"
+                android:text="@string/spotify"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:typeface="sans"
+                app:backgroundTint="@color/ax_three" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_liryc"
+                android:layout_width="160dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/black_f"
+                android:drawablePadding="6dp"
+                android:drawableTint="@color/blue"
+                android:padding="6dp"
+                android:text="@string/lirycs"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16sp"
+                android:typeface="monospace"
+                android:visibility="gone" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="8dp"
+            android:orientation="vertical">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_vk"
+                android:layout_width="160dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/black_f"
+                android:backgroundTint="@color/ax_three"
+                android:drawablePadding="6dp"
+                android:drawableTint="@color/blue"
+                android:padding="6dp"
+                android:text="@string/vk"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:typeface="sans" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_google"
+                android:layout_width="160dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/black_f"
+                android:drawablePadding="6dp"
+                android:drawableTint="@color/blue"
+                android:padding="6dp"
+                android:text="@string/google_music"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:typeface="sans"
+                app:backgroundTint="@color/ax_three" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_yandex"
+                android:layout_width="160dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/black_f"
+                android:drawablePadding="6dp"
+                android:drawableTint="@color/blue"
+                android:padding="6dp"
+                android:text="@string/yandex_music"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:typeface="sans"
+                app:backgroundTint="@color/ax_three" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_yutube"
+                android:layout_width="160dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/black_f"
+                android:drawablePadding="6dp"
+                android:drawableTint="@color/blue"
+                android:padding="6dp"
+                android:text="@string/youtube"
+                android:textColor="@color/colorPrimary"
+                android:textSize="16sp"
+                android:typeface="monospace"
+                android:visibility="gone" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_install"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/back_wte"
+        android:text="@string/install_app"
+        android:textColor="@color/green"
+        android:textStyle="bold" />
+</LinearLayout>

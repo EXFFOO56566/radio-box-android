@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.abdularis:circularimageview:v1.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81ca0cd8e47ccf6f179ea5936b9529a0/jetified-circularimageview-v1.2/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/d59a0cf5b2541a5464201a9d02cf154e/transformed/jetified-circularimageview-v1.2/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f2b683418987699a4013565900d2a1e7/transformed/jetified-circularimageview-v1.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2b84ea0d078e71c1525ef09c76064d82/transformed/jetified-circularimageview-v1.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81ca0cd8e47ccf6f179ea5936b9529a0/jetified-circularimageview-v1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81ca0cd8e47ccf6f179ea5936b9529a0/jetified-circularimageview-v1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81ca0cd8e47ccf6f179ea5936b9529a0/jetified-circularimageview-v1.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/d59a0cf5b2541a5464201a9d02cf154e/transformed/jetified-circularimageview-v1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/d59a0cf5b2541a5464201a9d02cf154e/transformed/jetified-circularimageview-v1.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/d59a0cf5b2541a5464201a9d02cf154e/transformed/jetified-circularimageview-v1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f2b683418987699a4013565900d2a1e7/transformed/jetified-circularimageview-v1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f2b683418987699a4013565900d2a1e7/transformed/jetified-circularimageview-v1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f2b683418987699a4013565900d2a1e7/transformed/jetified-circularimageview-v1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b84ea0d078e71c1525ef09c76064d82/transformed/jetified-circularimageview-v1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2b84ea0d078e71c1525ef09c76064d82/transformed/jetified-circularimageview-v1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b84ea0d078e71c1525ef09c76064d82/transformed/jetified-circularimageview-v1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abdularis/circularimageview/v1.2/165190dd8d302c9ca35bcc358137c0a98540dc17/circularimageview-v1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.abdularis/circularimageview/v1.2/165190dd8d302c9ca35bcc358137c0a98540dc17/circularimageview-v1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

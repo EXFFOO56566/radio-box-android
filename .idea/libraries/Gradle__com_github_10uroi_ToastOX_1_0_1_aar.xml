@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.10uroi:ToastOX:1.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e445bc331228a9768f7cc8fa82168b14/jetified-ToastOX-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e445bc331228a9768f7cc8fa82168b14/jetified-ToastOX-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e445bc331228a9768f7cc8fa82168b14/jetified-ToastOX-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/665f6fc2374b750e0967901a29bf425f/transformed/jetified-ToastOX-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/665f6fc2374b750e0967901a29bf425f/transformed/jetified-ToastOX-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/665f6fc2374b750e0967901a29bf425f/transformed/jetified-ToastOX-1.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2c1b3a5e55a3e7a90534dbf1bdf6915a/transformed/jetified-ToastOX-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2c1b3a5e55a3e7a90534dbf1bdf6915a/transformed/jetified-ToastOX-1.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2c1b3a5e55a3e7a90534dbf1bdf6915a/transformed/jetified-ToastOX-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/53a34324016cb3a09126798364ccb557/transformed/jetified-ToastOX-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53a34324016cb3a09126798364ccb557/transformed/jetified-ToastOX-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53a34324016cb3a09126798364ccb557/transformed/jetified-ToastOX-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

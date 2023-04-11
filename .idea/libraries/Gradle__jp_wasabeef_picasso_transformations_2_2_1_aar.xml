@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: jp.wasabeef:picasso-transformations:2.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/263722a178b9b5e95996b89cb3b120b2/jetified-picasso-transformations-2.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/263722a178b9b5e95996b89cb3b120b2/jetified-picasso-transformations-2.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/263722a178b9b5e95996b89cb3b120b2/jetified-picasso-transformations-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-2/files-2.1/263722a178b9b5e95996b89cb3b120b2/jetified-picasso-transformations-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/b1b052c3589f10c1bf50b7bd293b1075/transformed/jetified-picasso-transformations-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2d506bb5777554a76445d5d02eadbb19/transformed/jetified-picasso-transformations-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2d506bb5777554a76445d5d02eadbb19/transformed/jetified-picasso-transformations-2.2.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/2d506bb5777554a76445d5d02eadbb19/transformed/jetified-picasso-transformations-2.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/59345bf0382a2b63f1ca677a95c4ae4f/transformed/jetified-picasso-transformations-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e89ad5d7365f00a6fbd1d0b4e5eaa620/transformed/jetified-picasso-transformations-2.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e89ad5d7365f00a6fbd1d0b4e5eaa620/transformed/jetified-picasso-transformations-2.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e89ad5d7365f00a6fbd1d0b4e5eaa620/transformed/jetified-picasso-transformations-2.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e89ad5d7365f00a6fbd1d0b4e5eaa620/transformed/jetified-picasso-transformations-2.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98447eb7eadea807af2d1b36415663b6/transformed/jetified-picasso-transformations-2.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/98447eb7eadea807af2d1b36415663b6/transformed/jetified-picasso-transformations-2.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98447eb7eadea807af2d1b36415663b6/transformed/jetified-picasso-transformations-2.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.wasabeef/picasso-transformations/2.2.1/9f077a9a74a693a9677ffdec529ca0e80ab076c6/picasso-transformations-2.2.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/jp.wasabeef/picasso-transformations/2.2.1/9f077a9a74a693a9677ffdec529ca0e80ab076c6/picasso-transformations-2.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.wasabeef/picasso-transformations/2.2.1/c29e671394e4a4b73bc0783793f14e592b0bd07f/picasso-transformations-2.2.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/jp.wasabeef/picasso-transformations/2.2.1/c29e671394e4a4b73bc0783793f14e592b0bd07f/picasso-transformations-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ax_main"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bacc"
+        android:contentDescription="TODO"
+        android:scaleType="centerCrop"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/view_need_offset"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@android:color/transparent"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:context="pro.devspace.instadown.MainActivity">
+
+            <FrameLayout
+                android:id="@+id/content"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="0dp"
+                android:layout_weight="1">
+
+            </FrameLayout>
+
+            <LinearLayout
+                android:id="@+id/ads"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.google.android.gms.ads.AdView
+                    android:id="@+id/adView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:elevation="3dp"
+                    app:adSize="BANNER"
+                    app:adUnitId="@string/banner_id" />
+            </LinearLayout>
+
+
+           <nl.joery.animatedbottombar.AnimatedBottomBar
+                android:id="@+id/bottom_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:elevation="10dp"
+                app:abb_indicatorAppearance="square"
+                app:abb_indicatorColor="@color/ax_three"
+                app:abb_indicatorHeight="5dp"
+                app:abb_indicatorLocation="bottom"
+                app:abb_indicatorMargin="16dp"
+                app:abb_rippleColor="@color/ax_three"
+                app:abb_selectedIndex="0"
+                app:abb_selectedTabType="text"
+                app:abb_tabColor="@color/au_head_txt"
+                app:abb_tabColorSelected="@color/ax_three"
+                app:abb_tabs="@menu/tabs"
+                app:abb_textStyle="bold" />
+
+
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </RelativeLayout>
+
+</RelativeLayout>

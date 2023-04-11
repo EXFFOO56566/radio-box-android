@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ax_main">#1c1e2a</color>
+    <color name="ax_two">#2d2d39</color>
+    <color name="ax_three">#e32446</color>
+    <color name="ax_txt_two">#848389</color>
+    <color name="ax_stars_one">#FEBB68</color>
+
+
+    <color name="ax_green">#44E8AB</color>
+    <color name="ax_green_cell">#51C5C8</color>
+    <color name="ax_cat_cell">#253A49</color>
+    <color name="ax_font_two">#6F7181</color>
+    <color name="atx_green">#18aa66</color>
+    <color name="ax_back_star">#7A82AC</color>
+    <color name="ax_front_star">#6C6FFF</color>
+
+    <color name="stars">#000000</color>
+
+    <color name="colorPrimary">#100C25</color>
+    <color name="colorPrimaryDark">#100c25</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorAccentDark">#fff333</color>
+
+    <color name="blue">#4457ff</color>
+    <color name="tranparent">#00FFFFFF</color>
+    <color name="textMenu">#FFFFFF</color>
+    <color name="buttomColor">#2D3862</color>
+    <color name="buttonDown">#292929</color>
+    <color name="dot">#B42510</color>
+    <color name="dim">#C8000000</color>
+    <color name="dim1">#A3000000</color>
+    <color name="green">#2EBD6D</color>
+    <color name="yello">#641AAD</color>
+    <color name="cell_color">#303A46</color>
+    <color name="accentTowColor">#585C67</color>
+    <color name="title_faq">#25203c</color>
+    <color name="body_faq">#49436A</color>
+    <color name="violet">#4b1ca7</color>
+    <color name="yellow">#F8BD32</color>
+    <color name="red_up">#e1233d</color>
+    <color name="cell_new_color">#7E4AE5</color>
+    <color name="back_app_main_color">#F5F6FA</color>
+    <color name="back_cell_main_color">#FFFFFF</color>
+    <color name="second_text">#9C9CB8</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="first_drop_down_text_view_title">#FFDFF5FF</color>
+    <color name="first_drop_down_text_view_content">#323b40</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_more_light">#33e5e5e5</color>
+    <color name="gray_light">#F7F7F7</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="tab_selected_color">#d21034</color>
+    <color name="red_toolbar">#d21034</color>
+    <color name="red_statusbar">#d21034</color>
+    <color name="red_app">#d21034</color>
+    <color name="red_statusbar_dark">#b81432</color>
+    <color name="tab_unselected_color">#96a5ae</color>
+    <color name="gray_border">#eff1f3</color>
+    <color name="gray_text">#293D51</color>
+    <color name="gray_text_disabled">#54677D</color>
+    <color name="gray_text_faded">#80555e63</color>
+    <color name="cardBackground">#bfffffff</color>
+    <color name="colorTransparent">@android:color/transparent</color>
+    <color name="black_transparent">#14000000</color>
+    <color name="black_transparent_image">#46000000</color>
+    <color name="active_indicator">#C62828</color>
+    <color name="inactive_indicator">#4D000000</color>
+    <color name="red">#ff0000</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="bg">#757575</color>
+    <color name="cyanea_primary_reference">#0288D1</color>
+    <color name="cyanea_accent_reference">#FFA000</color>
+    <color name="not_active">#071349</color>
+    <color name="colorUp">#5A5E79</color>
+    <color name="gradient1">#1238CE</color>
+    <color name="gradient2">#2F93C2</color>
+    <color name="light_gray">#88898C</color>
+
+    <color name="au_back_all">#f2f3f8</color>
+    <color name="au_head_txt">#6f6f6f</color>
+    <color name="au_blue">#4457ff</color>
+    <color name="au_gray">#949cb1</color>
+    <color name="color_for_inage_txt">#70000000</color>
+    <color name="b_f">#ECECEC</color>
+
+    <color name="color_0">#ffffff</color>
+    <color name="color_1">#000000</color>
+    <color name="color_2">#f44336</color>
+    <color name="color_3">#ff9800</color>
+    <color name="color_4">#ffeb3b</color>
+    <color name="color_5">#4caf50</color>
+    <color name="color_6">#03a9f4</color>
+    <color name="color_7">#2196f3</color>
+    <color name="color_8">#9c27b0</color>
+
+    <integer-array name="sample_colors">
+        <item>@color/color_0</item>
+        <item>@color/color_1</item>
+        <item>@color/color_2</item>
+        <item>@color/color_3</item>
+        <item>@color/color_4</item>
+        <item>@color/color_5</item>
+        <item>@color/color_6</item>
+        <item>@color/color_7</item>
+        <item>@color/color_8</item>
+    </integer-array>
+</resources>

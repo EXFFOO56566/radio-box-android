@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yehiahd:FastSave-Android:1.0.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2508e8023e9a54235544043bd28664af/jetified-FastSave-Android-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2508e8023e9a54235544043bd28664af/jetified-FastSave-Android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2508e8023e9a54235544043bd28664af/jetified-FastSave-Android-1.0.6/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/dacc9df1123b81dd6b70134b7d4faf45/transformed/jetified-FastSave-Android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/dacc9df1123b81dd6b70134b7d4faf45/transformed/jetified-FastSave-Android-1.0.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/dacc9df1123b81dd6b70134b7d4faf45/transformed/jetified-FastSave-Android-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e96764356b41414f45f25aade7900035/transformed/jetified-FastSave-Android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e96764356b41414f45f25aade7900035/transformed/jetified-FastSave-Android-1.0.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e96764356b41414f45f25aade7900035/transformed/jetified-FastSave-Android-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/49f357445a94a27889e7aa12933b7579/transformed/jetified-FastSave-Android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/49f357445a94a27889e7aa12933b7579/transformed/jetified-FastSave-Android-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/49f357445a94a27889e7aa12933b7579/transformed/jetified-FastSave-Android-1.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yehiahd/FastSave-Android/1.0.6/ca0f47920df536428ef956a33e72077b42f7a95e/FastSave-Android-1.0.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.yehiahd/FastSave-Android/1.0.6/ca0f47920df536428ef956a33e72077b42f7a95e/FastSave-Android-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

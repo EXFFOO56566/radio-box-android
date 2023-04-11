@@ -1,0 +1,155 @@
+buildscript {
+    repositories {
+        maven { url 'https://plugins.gradle.org/m2/'}
+    }
+    dependencies {
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.14.0'
+    }
+}
+apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
+
+
+repositories {
+    maven { url 'https://maven.google.com' }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
+
+android {
+    compileSdkVersion 32
+
+    defaultConfig {
+        applicationId "pro.simpleapp.radiobox"
+        minSdkVersion 24
+        targetSdkVersion 32
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        manifestPlaceholders = [
+                onesignal_app_id: 'fdee1af5-71e5-48a7-89af-adac2e1d247c',
+                // Project number pulled from dashboard, local value is ignored.
+
+                onesignal_google_project_number: 'REMOTE'
+        ]
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+    // - UI
+
+    implementation 'com.github.minibugdev:sheetselection:0.0.3'
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.google.android.material:material:1.5.0'
+
+    implementation 'com.jakewharton:butterknife:10.2.3'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
+    implementation 'com.jaeger.statusbarutil:library:1.5.1'
+    implementation 'com.github.myinnos:AppFontChanger:1.0.3'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.squareup.okhttp3:okhttp:4.9.3'
+    implementation 'com.jakewharton.picasso:picasso2-okhttp3-downloader:1.1.0'
+    implementation 'jp.wasabeef:picasso-transformations:2.2.1'
+
+    implementation 'com.github.mancj:MaterialSearchBar:0.8.5'
+
+   // implementation 'com.github.alpbak:BoxedVerticalSeekBar:1.1.1'
+   // implementation 'com.sdsmdg.harjot:croller:1.0.7'
+    implementation 'me.tankery.lib:circularSeekBar:1.2.0'
+
+    implementation 'com.hbb20:ccp:2.4.0'
+    implementation 'com.airbnb.android:lottie:4.1.0'
+    implementation 'nl.joery.animatedbottombar:library:1.0.8'
+    implementation 'com.rishabhharit.roundedimageview:RoundedImageView:0.8.4'
+    implementation 'com.github.minibugdev:sheetselection:0.0.3'
+    implementation "ss.anoop:awesome-textinput-layout:1.0.0"
+    implementation "com.github.skydoves:colorpickerpreference:2.0.0"
+
+    implementation 'com.amitshekhar.android:android-networking:1.0.2'
+
+    implementation 'com.github.abdularis:circularimageview:v1.2'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+  //  implementation 'com.siclo.ezphotopick:library:1.0.10'
+
+    implementation 'com.iarcuschin:simpleratingbar:0.1.5'
+    implementation 'com.flaviofaria:kenburnsview:1.0.7'
+    implementation('com.github.thekhaeng:pushdown-anim-click:1.1.1') {
+        exclude group: 'com.android.support'
+
+    }
+    implementation  'com.fxn769:bubbletabbar:1.0.5'
+    implementation 'com.amitshekhar.android:android-networking:1.0.2'
+    implementation 'com.github.NaimishTrivedi:FBToast:1.0'
+    implementation 'com.github.10uroi:ToastOX:1.0.1'
+    // TIMER
+
+    implementation 'com.github.yashovardhan99:TimeIt:1.2.0'
+
+    /// -  PARSE
+    implementation "com.github.parse-community.Parse-SDK-Android:parse:3.0.0"
+
+    /// - PREFS
+    implementation 'com.github.yehiahd:FastSave-Android:1.0.6'
+
+    /// - GOOGLE
+    implementation 'com.google.firebase:firebase-ads:20.6.0'
+    implementation 'com.google.firebase:firebase-core:20.1.2'
+    implementation 'com.google.firebase:firebase-auth:21.0.3'
+    implementation 'com.google.firebase:firebase-database:20.0.4'
+    implementation 'com.google.firebase:firebase-storage:20.0.1'
+    implementation 'com.firebaseui:firebase-ui-database:6.0.2'
+    implementation 'com.google.firebase:firebase-messaging:23.0.3'
+    implementation 'com.google.firebase:firebase-analytics:20.1.2'
+
+    /// - PERMISSION
+    implementation 'com.github.IamIsPra:Sheriff:1.0.0'
+
+    /// - PHOTO
+    // implementation 'com.aminography:choosephotohelper:1.1.0'
+    implementation 'com.github.yalantis:ucrop:2.2.7'
+
+    /// -- RADIO
+
+    implementation 'saschpe.android:exoplayer2-ext-icy:1.0.1'
+    implementation 'com.google.android.exoplayer:exoplayer:2.9.6'
+    implementation 'org.greenrobot:eventbus:3.2.0'
+
+    /// PLAYER
+
+    implementation 'com.github.jeancsanchez:JcPlayer:2.7.0'
+
+    implementation 'com.onesignal:OneSignal:[4.0.0, 4.99.99]'
+
+    implementation files('libs/myapp-api.jar')
+
+    implementation 'androidx.media:media:1.6.0'
+
+    implementation "androidx.work:work-runtime:2.7.1"
+
+
+
+}
+
+apply plugin: 'com.google.gms.google-services'

@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.thekhaeng:pushdown-anim-click:1.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f74ef0bf1c9a6c3f63523de47f93244/jetified-pushdown-anim-click-1.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e51d40717ff91aa84e2cce2fea3c9601/transformed/jetified-pushdown-anim-click-1.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/78e1c0f92d7033ce541de57a94a5396b/transformed/jetified-pushdown-anim-click-1.1.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ade980d467845a1ecc31b6eac1d6e19c/transformed/jetified-pushdown-anim-click-1.1.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f74ef0bf1c9a6c3f63523de47f93244/jetified-pushdown-anim-click-1.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f74ef0bf1c9a6c3f63523de47f93244/jetified-pushdown-anim-click-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f74ef0bf1c9a6c3f63523de47f93244/jetified-pushdown-anim-click-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-2/files-2.1/78c85286e19132849dc1b65bd61d0d2d/jetified-pushdown-anim-click-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/188e223667ded084987f6517f343c1d1/transformed/jetified-pushdown-anim-click-1.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e51d40717ff91aa84e2cce2fea3c9601/transformed/jetified-pushdown-anim-click-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e51d40717ff91aa84e2cce2fea3c9601/transformed/jetified-pushdown-anim-click-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/e51d40717ff91aa84e2cce2fea3c9601/transformed/jetified-pushdown-anim-click-1.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/686619070a35b4bffd7c227aadf90219/transformed/jetified-pushdown-anim-click-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/78e1c0f92d7033ce541de57a94a5396b/transformed/jetified-pushdown-anim-click-1.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/78e1c0f92d7033ce541de57a94a5396b/transformed/jetified-pushdown-anim-click-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/78e1c0f92d7033ce541de57a94a5396b/transformed/jetified-pushdown-anim-click-1.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/039e0c3c8ede264d7223f45ad68f4a7f/transformed/jetified-pushdown-anim-click-1.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ade980d467845a1ecc31b6eac1d6e19c/transformed/jetified-pushdown-anim-click-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ade980d467845a1ecc31b6eac1d6e19c/transformed/jetified-pushdown-anim-click-1.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ade980d467845a1ecc31b6eac1d6e19c/transformed/jetified-pushdown-anim-click-1.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.thekhaeng/pushdown-anim-click/1.1.1/124ad9dfc95fbb3370891cbc206390b0c90029d0/pushdown-anim-click-1.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.thekhaeng/pushdown-anim-click/1.1.1/124ad9dfc95fbb3370891cbc206390b0c90029d0/pushdown-anim-click-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.thekhaeng/pushdown-anim-click/1.1.1/921736f6572dfa001324622550d079b477513ccd/pushdown-anim-click-1.1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.github.thekhaeng/pushdown-anim-click/1.1.1/921736f6572dfa001324622550d079b477513ccd/pushdown-anim-click-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

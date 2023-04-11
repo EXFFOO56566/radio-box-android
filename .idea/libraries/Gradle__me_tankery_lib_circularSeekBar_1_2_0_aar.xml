@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: me.tankery.lib:circularSeekBar:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df0a675c2c286d05e7c23b868e600331/jetified-circularSeekBar-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df0a675c2c286d05e7c23b868e600331/jetified-circularSeekBar-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df0a675c2c286d05e7c23b868e600331/jetified-circularSeekBar-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f270bbb3daf5a1de9e19ac247e609a7d/transformed/jetified-circularSeekBar-1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f270bbb3daf5a1de9e19ac247e609a7d/transformed/jetified-circularSeekBar-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/f270bbb3daf5a1de9e19ac247e609a7d/transformed/jetified-circularSeekBar-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/23ecaba49189ed2593cf9010ecbf663e/transformed/jetified-circularSeekBar-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/23ecaba49189ed2593cf9010ecbf663e/transformed/jetified-circularSeekBar-1.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/23ecaba49189ed2593cf9010ecbf663e/transformed/jetified-circularSeekBar-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/31f6364cc6d6d0ba076dbdec702928c1/transformed/jetified-circularSeekBar-1.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/31f6364cc6d6d0ba076dbdec702928c1/transformed/jetified-circularSeekBar-1.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/31f6364cc6d6d0ba076dbdec702928c1/transformed/jetified-circularSeekBar-1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.tankery.lib/circularSeekBar/1.2.0/990aaf6e75bfeaa826b96161d69629d5b974f22f/circularSeekBar-1.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/me.tankery.lib/circularSeekBar/1.2.0/990aaf6e75bfeaa826b96161d69629d5b974f22f/circularSeekBar-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.tankery.lib/circularSeekBar/1.2.0/6f5668602631e3c3cd2d930c3ea342de6c5af2b5/circularSeekBar-1.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/me.tankery.lib/circularSeekBar/1.2.0/6f5668602631e3c3cd2d930c3ea342de6c5af2b5/circularSeekBar-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rishabhharit.roundedimageview:RoundedImageView:0.8.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddbd7ddbc6f43f0a5db718bbec556754/jetified-RoundedImageView-0.8.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddbd7ddbc6f43f0a5db718bbec556754/jetified-RoundedImageView-0.8.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddbd7ddbc6f43f0a5db718bbec556754/jetified-RoundedImageView-0.8.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/5d7d8ca3218a79ed0092b6bc7e84a98a/transformed/jetified-RoundedImageView-0.8.4/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/5d7d8ca3218a79ed0092b6bc7e84a98a/transformed/jetified-RoundedImageView-0.8.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/5d7d8ca3218a79ed0092b6bc7e84a98a/transformed/jetified-RoundedImageView-0.8.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/627d210f9c4fc3d557df4220ffc8a515/transformed/jetified-RoundedImageView-0.8.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/627d210f9c4fc3d557df4220ffc8a515/transformed/jetified-RoundedImageView-0.8.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/627d210f9c4fc3d557df4220ffc8a515/transformed/jetified-RoundedImageView-0.8.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/743fe7832c236f787b5496a50b10fc23/transformed/jetified-RoundedImageView-0.8.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/743fe7832c236f787b5496a50b10fc23/transformed/jetified-RoundedImageView-0.8.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/743fe7832c236f787b5496a50b10fc23/transformed/jetified-RoundedImageView-0.8.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rishabhharit.roundedimageview/RoundedImageView/0.8.4/7296c7f3d0579641e7cdad5b3b0b914896a00fab/RoundedImageView-0.8.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.rishabhharit.roundedimageview/RoundedImageView/0.8.4/7296c7f3d0579641e7cdad5b3b0b914896a00fab/RoundedImageView-0.8.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rishabhharit.roundedimageview/RoundedImageView/0.8.4/fab6dc0d5d5f04a3c3668c758874341e84bdc506/RoundedImageView-0.8.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.rishabhharit.roundedimageview/RoundedImageView/0.8.4/fab6dc0d5d5f04a3c3668c758874341e84bdc506/RoundedImageView-0.8.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

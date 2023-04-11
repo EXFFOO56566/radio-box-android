@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context=".fragments.AddFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:id="@+id/tbr"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="35dp">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="16dp"
+                android:text="@string/radio_box"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:typeface="serif" />
+
+            <Button
+                android:id="@+id/btn_insta"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="16dp"
+                android:background="@drawable/instagram"
+                android:backgroundTint="@color/green"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tbr">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp">
+
+
+                    <com.rishabhharit.roundedimageview.RoundedImageView
+                        android:id="@+id/img_add"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:background="@drawable/b_logo"
+                        android:scaleType="centerCrop"
+                        android:translationZ="0dp"
+                        app:cornerRadius="8dp"
+                        app:roundedCorners="topRight|topLeft|bottomRight|bottomLeft"
+                        tools:src="@tools:sample/avatars" />
+
+                    <ImageButton
+                        android:id="@+id/image_add_btn"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/plus"
+                        android:backgroundTint="@color/au_gray" />
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dp"
+                        android:text="@string/add_radio_cover"
+                        android:textAlignment="center"
+                        android:textAllCaps="true"
+                        android:textColor="@color/ax_three"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:typeface="sans" />
+
+                </RelativeLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/name_text_input"
+
+                    style="@style/Widget.TextInputLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="16dp"
+                    android:hint="@string/name_stations"
+                    android:textColorHint="@color/white"
+                    app:boxCornerRadiusBottomEnd="8dp"
+                    app:boxCornerRadiusBottomStart="8dp"
+                    app:boxCornerRadiusTopEnd="8dp"
+                    app:boxCornerRadiusTopStart="8dp"
+                    app:boxStrokeColor="@color/white"
+                    app:counterTextColor="@color/white"
+                    app:helperTextTextColor="@color/white"
+                    app:hintTextColor="@color/white"
+                    app:passwordToggleTint="@color/white">
+
+                    <EditText
+                        android:id="@+id/text_name_station"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/au_back_all"
+
+                        android:textColor="@color/au_back_all" />
+
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/name_text_inputs"
+
+                    style="@style/Widget.TextInputLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="16dp"
+                    android:hint="@string/url_stream"
+                    android:textColorHint="@color/white"
+                    app:boxCornerRadiusBottomEnd="8dp"
+                    app:boxCornerRadiusBottomStart="8dp"
+                    app:boxCornerRadiusTopEnd="8dp"
+                    app:boxCornerRadiusTopStart="8dp"
+                    app:boxStrokeColor="@color/white"
+                    app:counterTextColor="@color/white"
+                    app:helperTextTextColor="@color/white"
+                    app:hintTextColor="@color/white"
+                    app:passwordToggleTint="@color/white">
+
+                    <EditText
+                        android:id="@+id/text_url_stream"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/au_back_all"
+
+                        android:textColor="@color/au_back_all" />
+
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/categ_btn"
+                    android:layout_width="200dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/category"
+                    android:textColor="@color/white"
+                    android:textSize="17sp"
+                    android:typeface="serif"
+                    app:backgroundTint="@color/ax_three"
+                    app:tint="@null" />
+
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/publish"
+                    android:layout_width="200dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/publish"
+                    android:textColor="@color/white"
+                    android:textSize="17sp"
+                    android:typeface="serif"
+                    app:backgroundTint="@color/ax_three"
+                    app:tint="@null" />
+
+            </LinearLayout>
+        </ScrollView>
+
+
+    </RelativeLayout>
+
+</FrameLayout>

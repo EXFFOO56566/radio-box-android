@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fxn769:bubbletabbar:1.0.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ff0da91b0b478a214abf147ef36cf7/jetified-bubbletabbar-1.0.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ff0da91b0b478a214abf147ef36cf7/jetified-bubbletabbar-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ff0da91b0b478a214abf147ef36cf7/jetified-bubbletabbar-1.0.5/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/27e9fd17f68426a0de66b48fdb633e8c/transformed/jetified-bubbletabbar-1.0.5/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/27e9fd17f68426a0de66b48fdb633e8c/transformed/jetified-bubbletabbar-1.0.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/27e9fd17f68426a0de66b48fdb633e8c/transformed/jetified-bubbletabbar-1.0.5/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/94d5b84e55b102d1c240945b292c14b5/transformed/jetified-bubbletabbar-1.0.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/94d5b84e55b102d1c240945b292c14b5/transformed/jetified-bubbletabbar-1.0.5/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/transforms-3/94d5b84e55b102d1c240945b292c14b5/transformed/jetified-bubbletabbar-1.0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/56e72ec1a02b863b34c715a00c541f90/transformed/jetified-bubbletabbar-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/56e72ec1a02b863b34c715a00c541f90/transformed/jetified-bubbletabbar-1.0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/56e72ec1a02b863b34c715a00c541f90/transformed/jetified-bubbletabbar-1.0.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fxn769/bubbletabbar/1.0.5/581c2601af8b6a245e98fc9347cbf6135847c2e9/bubbletabbar-1.0.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.fxn769/bubbletabbar/1.0.5/581c2601af8b6a245e98fc9347cbf6135847c2e9/bubbletabbar-1.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fxn769/bubbletabbar/1.0.5/39573433bd05dfcedbc3544f026fabb19efe2f2b/bubbletabbar-1.0.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../CODELIST_SCRIPT/DatiNG/video-chat-android-application-using-sinch-master/gradle/caches/modules-2/files-2.1/com.fxn769/bubbletabbar/1.0.5/39573433bd05dfcedbc3544f026fabb19efe2f2b/bubbletabbar-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

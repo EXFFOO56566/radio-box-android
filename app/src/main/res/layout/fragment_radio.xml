@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.RadioFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <com.rishabhharit.roundedimageview.RoundedImageView
+            android:id="@+id/image_cover"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_centerHorizontal="false"
+            android:scaleType="centerCrop"
+            app:cornerRadius="14dp"
+            app:layout_constraintBottom_toTopOf="@+id/txt_song"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/radio_name"
+            app:roundedCorners="topRight|bottomLeft|topLeft|bottomRight"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/artist_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/txt_song"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="5dp"
+            android:text="- - -"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="@color/ax_three"
+            android:textSize="23sp"
+            android:typeface="monospace"
+            app:layout_constraintBottom_toTopOf="@+id/rbar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <com.iarcuschin.simpleratingbar.SimpleRatingBar
+            android:id="@+id/rbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/baseds"
+            app:layout_constraintBottom_toTopOf="@+id/baseds"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srb_borderColor="@color/white"
+            app:srb_drawBorderEnabled="false"
+            app:srb_fillColor="@color/ax_stars_one"
+            app:srb_numberOfStars="5"
+            app:srb_starBackgroundColor="@color/stars"
+            app:srb_starSize="30dp"
+            app:srb_stepSize="1" />
+
+        <TextView
+            android:id="@+id/baseds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:text="TextView"
+            android:textAlignment="center"
+            android:textColor="@color/gray_text_disabled"
+            app:layout_constraintBottom_toTopOf="@+id/rate"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/rate"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_above="@id/r"
+
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="2dp"
+            android:text="rate "
+            app:backgroundTint="@color/ax_two"
+            app:cornerRadius="8dp"
+            app:layout_constraintBottom_toTopOf="@+id/r"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+        <RelativeLayout
+            android:id="@+id/r"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="false"
+            android:layout_marginBottom="3dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <ImageButton
+                android:id="@+id/comment"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="50dp"
+                android:background="@drawable/chatz"
+                android:backgroundTint="@color/au_blue"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:typeface="serif"
+                android:visibility="invisible" />
+
+            <ImageButton
+                android:id="@+id/playTrigger"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+
+                android:layout_centerInParent="true"
+                android:background="@drawable/playbtn"
+                android:textColor="@color/textMenu"
+                android:textSize="15sp"
+                android:typeface="serif" />
+
+            <ImageButton
+                android:id="@+id/search"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="16dp"
+                android:background="@drawable/searchs"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:tint="@color/au_blue"
+                android:typeface="serif" />
+
+            <TextView
+                android:id="@+id/record_label"
+                android:layout_width="80dp"
+                android:layout_height="25dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="70dp"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:scrollHorizontally="true"
+                android:selectAllOnFocus="true"
+                android:singleLine="true"
+                android:textAlignment="viewEnd"
+                android:textColor="@color/active_indicator"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:typeface="sans"
+                android:visibility="gone"
+                tools:text="00:00" />
+
+            <ImageButton
+                android:id="@+id/btn_record"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="16dp"
+                android:background="@drawable/record_b_g"
+                android:visibility="visible" />
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/radio_name"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="16dp"
+            android:gravity="center_vertical"
+            android:text="- - -"
+            android:textAllCaps="true"
+            android:textColor="@color/ax_three"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:typeface="sans"
+            app:autoSizeTextType="uniform"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/like_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="false"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/heart_w"
+            app:layout_constraintBottom_toTopOf="@id/r"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <TextView
+            android:id="@+id/txt_song"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/rbar"
+            android:layout_alignParentEnd="false"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="@color/white"
+            android:text="loading "
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="23sp"
+            android:typeface="monospace"
+            app:layout_constraintBottom_toTopOf="@+id/artist_txt"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageButton
+            android:id="@+id/shares_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="9dp"
+            android:background="@drawable/sh"
+            android:src="@drawable/sh"
+            app:layout_constraintBottom_toTopOf="@+id/r"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="3dp"
+            android:background="@drawable/backz"
+            android:backgroundTint="@color/white"
+            app:layout_constraintEnd_toStartOf="@+id/radio_name"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RelativeLayout
+            android:id="@+id/layout_user"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/button_blue"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="@+id/image_cover"
+            app:layout_constraintEnd_toEndOf="@+id/image_cover"
+            app:layout_constraintStart_toStartOf="@+id/image_cover">
+
+            <ImageView
+                android:id="@+id/complaint_btn"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:background="@android:drawable/stat_sys_warning"
+                android:backgroundTint="@color/ax_three" />
+
+            <TextView
+                android:id="@+id/text_user_p"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="25dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginEnd="10dp"
+                android:layout_toStartOf="@+id/image_user_p"
+                android:text="Ramirrezz"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/ax_green"
+                android:textSize="15dp"
+                android:typeface="sans" />
+
+            <com.rishabhharit.roundedimageview.RoundedImageView
+                android:id="@+id/image_user_p"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="false"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/back_led"
+                app:cornerRadius="5dp"
+                app:roundedCorners="topRight|bottomLeft|topLeft|bottomRight" />
+        </RelativeLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>
